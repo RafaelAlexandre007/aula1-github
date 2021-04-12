@@ -1,0 +1,2 @@
+module curse {
+}
